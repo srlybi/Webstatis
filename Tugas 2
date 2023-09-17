@@ -1,0 +1,23 @@
+<html>
+<head>
+<tittle>
+Tugas 2 Pengembangan Web - Muthmainnatul Qolbi
+</tittle>
+</head>
+<body>
+<h1>Perpustakaan Taman Ismail Marzuki
+<p>Jl. Cikini Raya No.73, RT.9/RW.2, Cikini, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta
+<br>
+<h2>Reservasi Online Perpustakaan Taman Ismail Marzuki</h2>
+<p>1. Buka Aplikasi jaklitera atau laman perpustakaan.jakarta.go.id.</p>
+<p>2. Klik akun yang berada dibawah pojok kanan.</p>
+<p>3. Jika belum memiliki akun kamu bisa mendaftarkan diri dengan memasukkan data username/NIK/No Kitas, serta password. Tapi jika sudah, maka langsung pilih Masuk.</p>
+<p>4. Jika sudah bisa masuk portal, klik 'Jelajahi' dan isi buku tamu yang telah disediakan oleh laman.</p>
+<p>5. Pilih tanggal kunjungan yang diinginkan di bagian formulir, pilih Perpustakaan Jakarta Cikini, lalu ketikkan NIK kalian.</p>
+<p>Setelah selesai, maka akan muncul QR code yang digunakan untuk check-in dan check-out.</p>
+<br>
+<a href="https://perpustakaan.jakarta.go.id">ini laman Perpustakaan Taman Ismail Marzuki</a>
+<img src="images/tim.jpeg">
+<br>
+<img src="images/tim.jpeg" widht="500" height="242">
+
