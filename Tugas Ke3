@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Pengembangan Web Tugas 3</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel="icon" type="image/x-icon" href="images/logouin.png">
+    <script src='main.js'></script>
+</head>
+<body style="background-color:cornsilk;">
+    <h1 style="color; black; background-color:bisque;"><center>Belajar HTML5 Hari ke-3 <br>Sangat Menyenangkan</h1>
+    <h2 style="color; coral; background-color: burlywood; color:cadetblue;"><center>Museum</h2>
+    <img src="images/mesum1.jpg" widht="600" height="200" style="float: left; margin-right: 10px; border-radius; 5px;">
+    </p>
+    <h3>Internasional Council of Museum (ICOM) mendeskripsikan museum sebagai organisasi non-profit yang melayani masyarakat. Mengenai perihal didalamnya yaitu melakukan penelitian, mengumpulkan dan menunjukkan suatu peninggalan sejarah yang terbuka untuk umum. Mereka melakukan pekerjaan dengan bersikap dan berkomunikasi secara etis, professional, dan dengan adanya partisipasi masyarakat, memberikan berbagai pengalaman yang beredukasi, menghibur, gambaran dari  peninggalan sejarah dan memberikan pengetahuan. Menurut peraturan pemerintah no.66 tahun 2015 tentang museum, menjelaskan bahwa museum merupakan suatu Lembaga yang berfungsi untuk melindungi, mengembangkan, memanfaatkan suatu koleksi dan berinteraksi kepada masyarakat. Secara etimologis, museum berasal dari Bahasa Yunani klasik yaitu Muze yang berarti kumpulin 9 dewi. Merupakan lambang dari ilmu dan kesenian. Sehubungan dengan arti tersebut maka museum dapat didefinisikan sebagai suatu tempat yang digunakan untuk menyimpan benda-benda kuno (bersejarah) dengan tujuan agar dapat dilihat dan dipelajari untuk menambah wawasan dan menjadi tempat rekreasi. Secara terminologis, pengertian museum ialah suatu tempat atau sebuah Lembaga yang mengumpulkan, menyimpan dan menunjukkan benda-benda yang terdapat suatu nilai sejarah, kesenian, ilmu alam dan lain sebagainya.</h3>
+    <h2 style="color; coral; background-color: burlywood; color:cadetblue;"><center>Pameran</h2>
+    <img src="images/Pameran.jpg" widht="800" height="300" style="float: right; margin-right: 10px; border-radius: 5px;">
+    </p>
+    <h3>Pameran atau nama lainnya yaitu eksibisi yang berasal dari Bahasa asing, yakni Bahasa inggris "exhibition". Sederhananya, eksibisi adalah suatu peragaan, peragaan atau sebuah tontonan. Pameran menurut Isabel Briggs Myers mendefinisikan Pameran ialah suatu pekerjaan yang melibatkan ruangan dan menunjukkan hasil dari sebuah karya seni seperti ukiran, lukisan, dan finished artwork. Pameran adalah suatu kegiatan yang diselenggarakan sebagai media penyampaian gagasan atau usulan kepada masyarakat dalam berbagai bentuk seperti kebudayaan, Pendidikan, karya seni, dan produk tertentu. Definisi lain dari pameran adalah suatu bentuk kegiatan promosi yang dilakukan oleh produsen, organisasi atau asosiasi tertentu untuk memperkenalkan produknya kepada calon pembeli. Pada umumnya, kegiatan Pameran ini akan menarik perhatian banyak masyarakat.</h3>
+    <h3> <b> 5 Rekomendasi Pameran di Museum Indonesia</b></h3>
+    <ol type="1">
+        <li>Galeri Nasional Indonesia, Jakarta</li>
+        <li>Art Jog, Yogyakarta</li>
+        <li>Bali Arts Festival, Bali</li>
+        <li>Museum Macan, Jakarta</li>
+        <li>Museum Affandi, Yogyakarta</li>
+    </ol>
+    <h2>Alamat Rekomendasi Pameran di Museum Indonesia</h2>
+    <table border="1" style="border: dashed; border-color:burlywood;">
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Museum Pameran</th>
+                <th>Alamat</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Galeri Nasional Indonesia, Jakarta</td>
+                <td>Jl. Medan Merdeka Timur no.14, Central Jakarta 10110 Jakarta</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Art Jog, Yogyakarta</td>
+                <td>Seboman no.234 Rt 06 DK.X, Ngestiharjo, Kasihan, Bantul, DIY, Indonesia 55182</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Bali Arts Festival, Bali</td>
+                <td>Jl. Nusa Indah No.1 Panjer, Denpasar</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Musem Macan, Jakarta</td>
+                <td>Jl. Panjang no.5, AKR Tower 11530 Jakarta</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Museum Affandi, Yogyakarta</td>
+                <td>Jl. Laksamana Adi Sucipto 149 55281 Depok Yogyakarta</td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <p>Sumber Rujukan HTML5: <a href="https://www.w3shools.com/">W3Schools</a></p>
+    <p>Yang Mengerjakan Tugas Ini:</p>
+    <table>
+        <tr>
+            <td>Nama Lengkap</td>
+            <td>:</td>
+            <td><b>Muthmainnatul Qolbi</b></td>
+        </tr>
+        <tr>
+            <td>NIM</td>
+            <td>:</td>
+            <td>11210251000131</td>
+        </tr>
+        
+    </table>
+    <img src="images/me.jpg" widht="250" height="300">
+    
+        
+        
+    
