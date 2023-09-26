@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Museum</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+    img {float:left}
+</head>
+<body>
+<h1 style="background-color: burlywood; font-family: poppin; color:brown"><center>Museum</h1>
+<h2>Definisi Museum</h2>
+<p style="text-align: justify; font-size: 20px"><img src="images/museum1.jpg" width="400" height="290" style=margin-right: 10px;></p>
+<b> <i>Internasional Council of Museum (ICOM) mendeskripsikan museum sebagai organisasi non-profit yang melayani masyarakat. Mengenai perihal didalamnya yaitu melakukan penelitian, mengumpulkan dan menunjukkan suatu peninggalan sejarah yang terbuka untuk umum. Mereka melakukan pekerjaan dengan bersikap dan berkomunikasi secara etis, professional, dan dengan adanya partisipasi masyarakat, memberikan berbagai pengalaman yang beredukasi, menghibur, gambaran dari  peninggalan sejarah dan memberikan pengetahuan. Menurut peraturan pemerintah no.66 tahun 2015 tentang museum, menjelaskan bahwa museum merupakan suatu Lembaga yang berfungsi untuk melindungi, mengembangkan, memanfaatkan suatu koleksi dan berinteraksi kepada masyarakat. Secara etimologis, museum berasal dari Bahasa Yunani klasik yaitu Muze yang berarti kumpulin 9 dewi. Merupakan lambang dari ilmu dan kesenian. Sehubungan dengan arti tersebut maka museum dapat didefinisikan sebagai suatu tempat yang digunakan untuk menyimpan benda-benda kuno (bersejarah) dengan tujuan agar dapat dilihat dan dipelajari untuk menambah wawasan dan menjadi tempat rekreasi. Secara terminologis, pengertian museum ialah suatu tempat atau sebuah Lembaga yang mengumpulkan, menyimpan dan menunjukkan benda-benda yang terdapat suatu nilai sejarah, kesenian, ilmu alam dan lain sebagainya.</i></b>
+
+    
+</body>
+</html>
+<!--Block Inline-->
+<address style="font-size: large;">https://www.instagram.com/museumnasionalindonesia/?hl=id/">Instagram Museum Nasional</a></address>
+<br>
+<!--List-->
+<h2>Jam Operasional Museum Nasional</h2>
+<Dl>
+    <dt style="font-size:large;"><b>Selasa-Minggu</b></dt>
+    <dd>-Buka Pukul 08.00-16.00</dd>
+    <br>
+    <dt style="font-size: large;"><b>Hari Libur Naional Keagamaan</b></dt>
+     <dd>-Tutup</dd>
+    </Dl>
+<h2>Harga Tiket Pengunjung</h2>
+<p style="text-align: justify; font-size: 20px;"></p>
+<ol>
+    <il style="font-size: large;"Tiket Kunjungan<span style="color:cadetblue; font-weight: bold; font-size: large;">Reguler Peorangan</span></il>
+    <il style="font-size: large;">Dewasa Rp15.000/orang</il>
+    <il style="font-size: large;">,Anak-anak Rp7.500/orang</il>
+    <br>
+    <il style="font-size: large;"Tiket Kunjungan<span style="color:cadetblue; font-weight: bold; font-size: large;">Reguler Rombongan (-50 org)</span></il>
+    <il style="font-size: large;">Dewasa Rp10.000/orang</il>
+    <il style="font-size: large;">, Anak-anak Rp5.000/orang</il>
+</ul>
+<hr>
+
+<!--Table-->
+<h3 style="text-align: center;">5 Rekomendasi Pameran di Museum</h3>
+<Table>
+    <tr>
+        <th 
+    </tr>
+</Table>
+    
