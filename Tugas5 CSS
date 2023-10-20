@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>BANK INDONESIA</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src="https://kit.fontawesome.com/79fa34a98c.js"crossorigin="anonymous"></script>
+</head>
+<style>
+
+    img {width: 75%; height:auto; image-resolution: 100%; margin-left: 180px ;
+    }
+
+    body {
+    background-image: url(images/background-2535510_1280.jpg);
+    background-color: rgb(95, 158, 160);
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+h1 {font-family: 'Courier New';
+text-align: center;
+font-size: 30px;
+text-shadow: 2px 6px 8px rgb(43, 69, 70);}
+
+h2 {font-family: "monaco", monospace;
+text-align: center;
+font-size: 25px;
+widht: 1200px;
+margin:auto;
+border-style: double;
+border-width: 5px;
+border-color: rgb(47, 96, 113);}
+
+h3 {font-family: "monaco", monospace;
+font-size: 20px;
+padding: 10px;
+width: 1000px;
+margin:auto;
+text-decoration: underline;}
+
+p {font-family: "monaco", monospace;
+font-size: 18px;
+text-align: justify;
+padding: 10px;
+width: 900px;
+margin: auto;}
+
+div {font-family: "monaco", monospace;
+      font-size: 18px;
+      text-align: justify;
+      padding: 10px;
+      width: 1200px;
+      margin:auto;
+      background-color: rgb(210, 200, 147);
+      width: 1100px;
+      border: 8px solid rgb(140, 74, 74);
+      padding: 40px;
+      margin:auto;}
+
+ol {font-family: "monaco", monospace;
+     font-size: 18px;
+     text-align: justify;}
+
+ul {font-family: "monaco", monospace;
+     font-size: 18px;
+     text-align: justify;
+     width: 900px;
+     margin:auto;
+     padding: 30px;
+     list-style-type: circle;}
+
+
+     #Dewan {font-family: monospace;
+        border-collapse: collapse;
+        width: 1100px;
+        margin:auto;
+        padding:30px;}
+
+     #Dewan td, #Dewan th {
+        border: 3px solid #161616;
+        padding:8px;
+        font-size: 18px;}
+
+#Dewan tr:nth-child(even){background-color: #bccde0;}
+
+#Dewan tr:nth-child(odd) {background-color: #84a5ac;}
+
+#Dewan th {
+       padding-top: 12px;
+       padding-bottom: 12px;
+       text-align: left;
+       background-color: #84a5ac;
+       color: rgb(210, 200, 147);
+    text-align: center;}
+
+    p {outline-color: rgb(43, 69, 70);}
+             p.outset {outline-style: outset;}
+
+    a:link, a:visited {
+        background-color: #bccde0;
+        color: black;
+        border:rgb(43, 69, 70);
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+    }
+    a:hover, a:active {
+        background-color: cadetblue;
+        color: white;}
+
+    a {font-family: monospace;
+        font-size: 20px;
+        padding: 10px;
+        width: 180px;
+        margin-left: 220px;}
+
+</style>
+<body>
+    <h1>Mengenal Museum Bank Indonesia</h1>
+    <br>
+    <br>
+    <br>
+    <img src="images/Museum_Bank Indonesia.jpg">
+    <br>
+    <br>
+    <h2>Museum Bank Indonesia</h2>
+    <br>
+    <br>
+    <div>​Museum BI menempati gedung BI Kota yang sebelumnya digunakan oleh De Javasche Bank, gedung yang mempunyai nilai sejarah yang tinggi.
+         Pemerintah telah menetapkan bangunan tersebut sebagai bangunan cagar budaya sesuai SK Gubernur Provinsi DKI Jakarta No.475 tahun 1993.  <br><br>
+         Pelestarian gedung BI Kota sejalan dengan kebijakan Pemerintah DKI Jakarta yang mencanangkan daerah Kota Tua sebagai salah satu daerah bersejarah di Jakarta. Sebagai salah satu pelopor revitalisasi gedung-gedung bersejarah di Kota Tua, BI bermaksud menyajikan pengetahuan terkait peran BI dalam perjalanan sejarah bangsa, termasuk memaparkan latar belakang kebijakan BI yang diambil dari waktu ke waktu.  <br><br>Hal inilah yang menjadi pertimbangan munculnya gagasan pentingnya keberadaan Museum Bank Indonesia. ​ </div>
+    <br>
+
+    <h2>PROFIL Museum Bank Indonesia</h2>
+    <h3><b>Status dan Kedudukan</b></h3>
+    <p>Babak baru dalam sejarah Bank Indonesia sebagai Bank Sentral yang independen dalam melaksanakan tugas dan wewenangnya dimulai ketika sebuah undang-undang baru, yait​u Undang-Undang Nomor 23 tahun 1999 tentang Bank Indonesia sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang ​ Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan. Undang-undang ini memberikan status dan kedudukan sebagai suatu lembaga negara yang independen dalam melaksanakan tugas dan wewenangnya, bebas dari campur tangan Pemerint​​ah dan/atau pihak lain, kecuali untuk hal-hal yang secara tegas diatur dalam undang-undang ini. <br><br>
+        Bank Indonesia mempunyai otonomi penuh dalam merumuskan dan melaksanakan setiap tugas dan wewenangnya sebagaimana ditentukan dalam undang-undang tersebut. Pihak luar tidak dibenarkan mencampuri pelaksanaan tugas Bank Indonesia, dan Bank Indonesia juga berkewajiban untuk menolak atau mengabaikan intervensi dalam bentuk apapun dari pihak manapun juga. <br><br>Status dan kedudukan yang khusus tersebut diperlukan agar Bank Indonesia dapat melaksanakan peran dan fungsinya sebagai otoritas moneter secara lebih efektif dan efisien.</p>
+    <h3><b>Visi</b></h3>
+    <p>Menjadi bank sentral digital terdepan dengan tata ​​kelola kuat yang berkontribusi nyata ter​hadap perekonomian nasional dan terbaik di antara negara emerging markets untuk Indonesia Maju.​ ​</p>
+    <h3><b>Misi</b></h3>
+    <ul class="Misi">
+        <ol>
+            <li>Mencapai stabilitas nilai rupiah melalui efektivitas penetapan dan pelaksanaan kebijakan moneter dan bauran kebijakan Bank Indonesia secara berkelanjutan, konsisten, dan transparan dalam rangka mendukung pertumbuhan ekonomi yang berkelanjutan.</li>
+            <li>Memelihara stabilitas sistem pembayaran melalui penetapan kebijakan, pengaturan, perizinan, penyelenggaraan, pengawasan sistem pembayaran, dan pengelolaan uang rupiah, termasuk memfasilitasi percepatan ekonomi dan keuangan digital dalam rangka mendukung pertumbuhan ekonomi yang berkelanjutan.</li>
+            <li>Turut menjaga stabilitas sistem keuangan melalui penetapan dan pelaksanaan kebijakan makroprudensial dalam rangka mendukung pertumbuhan ekonomi yang berkelanjutan.</li>
+            <li>Turut mendukung stabilitas makroekonomi dan pertumbuhan ekonomi yang berkelanjutan melalui sinergi bauran kebijakan Bank Indonesia dengan Pemerintah pusat dan daerah, otoritas atau lembaga terkait, dan/atau mitra strategis lain, serta kerja sarna internasional.</li>
+            <li>Turut meningkatkan pendalaman pasar keuangan melalui pengaturan, pengawasan, dan pengembangan pasar uang dan pasar valas, termasuk infrastrukturnya, untuk memperkuat efektivitas kebijakan Bank Indonesia dan mendukung pembiayaan ekonomi nasional.</li>
+            <li>Turut meningkatkan inklusi ekonomi-keuangan, dan keuangan berkelanjutan, baik secara konvensional maupun berdasarkan prinsip syariah, serta pelindungan konsumen melalui perumusan kebijakan dan pelaksanaan program kerja Bank Indonesia.</li>
+            <li>Mewujudkan bank sentral berbasis digital dalam kebijakan dan kelembagaan, yang mengutamakan Sistem Tata Kelola Ke​bijakan dan Kelembagaan Bank Indonesia yang baik dan profesional, melalui pengelolaan organisasi dan sumber daya.​</li>
+        </ol>
+    </ul>
+
+    <h3><b>Tujuan Tunggal</b></h3>
+    <p>Dalam kapasitasnya sebagai bank sentral, Bank Indonesia mempunyai tujuan untuk mencapai stabilitas nilai rupiah, memelihara stabilitas Sistem Pembayaran, dan turut menjaga Stabilitas Sistem Keuangan dalam rangka mendukung pertumbuhan ekonomi yang berkelanjutan.​ <br><br>Aspek pertama tercermin pada perkembangan laju inflasi, sementara aspek kedua tercermin pada perkembangan nilai tukar rupiah terhadap mata uang negara lain. Perumusan tujuan tunggal ini dimaksudkan untuk memperjelas sasaran yang harus dicapai Bank Indonesia serta batas-batas tanggung jawabnya. Dengan demikian, tercapai atau tidaknya tujuan Bank Indonesia ini kelak akan dapat diukur dengan mudah.</p>
+    <h3><b>Tujuan Pendirian Museum Bank Indonesia</b></h3>
+    <p>Guna menunjang pengembangan kawasan Kota Tua sebagai tujuan wisata di DKI Jakarta, maka sangat tepat apabila gedung BI Kota yang telah ditetapkan sebagai bangunan cagar budaya oleh pemerintah, dimanfaatkan menjadi Museum Bank Indonesia.
+        Adapun tujuan dari pendirian dan pemeliharaan gedung BI Kota adalah sebagai berikut:</p>
+    <ul class="Tujuan Pendirian Museum Bank Indonesia">
+        <li>​​​S​​arana Komunikasi Kebijakan BI 
+            ​​Museum BI memiliki fungsi untuk mensosialisakan berbagai kebijakan yang dikeluarkan BI sehingga masyarakat dapat lebih mudah mengetahui dan memahami kebijakan BI terkini. </li>
+        <li>Tempat Mengumpulkan, Menyimpan, dan Merawat Benda Numismatik Ataupun Dokumen Bersejarah BI ​
+            Beragam bentuk benda numismatik ataupun dokumen yang bernilai sejarah dalam perjalanan bank sentral Indonesia akan dikelola dan disajikan secara lengkap dan runtut, sehingga mudah dipahami oleh berbagai lapisan masyarakat. </li>
+        <li>​​​​​​​Sarana Rekreasi Literasi Yang Menghibur/Edutainment (Education-Entertainment) 
+            ​Museum BI juga bertujuan sebagai sarana edukasi yang menghibur bagi masyarakat dengan menyediakan fasilitas pengetahuan kebanksentralan berbasis teknologi terkini.
+        </li>
+
+    </ul>
+<br>
+
+<h2>FUNGSI UTAMA MUSEUM BANK INDONESIA</h2>
+<p>Bank Indonesia berkomitmen untuk senantiasa mencapai dan memelihara kestabilan nilai rupiah melalui pengelolaan bidang Moneter, Sistem Pembayaran, dan Stabilitas Sistem Keuangan. Pengelolaan ketiga bidang tersebut diimplementasikan melalui kebijakan yang dikeluarkan oleh Bank Indonesia dan dioperasikan melalui berbagai instrumen yang sesuai dengan bidang tugas terkait. Ketahui lebih lanjut mengenai kebijakan serta indikator perekonomian Indonesia pada masing-masing bidang tugas Bank Indonesia melalui menu berikut.</p>
+<ul class="FUNGSI UTAMA MUSEUM BANK INDONESIA">
+    <li>Moneter</li>
+    <li>Stabilitas Sistem Keuangan</li>
+    <li>Sistem Pembayaran & Pengelolaan Uang Rupiah</li>
+</ul>
+<br>
+<br>
+<h2>STRUKTUR ORGANISASI MUSEUM BANK INDONESIA</h2>
+<br>
+<h3><b>Komite</b></h3>
+<p>Dewan Gubernur Bank Indonesia Yang Menjadi Komite</p>
+<table id="Dewan">
+    <tr>
+        <th>Nama</th>
+        <th>Keputusan Berdasarkan Presiden</th>
+        <th>Mengucap Sumpah Jabatan Gubernur BI</th>
+    </tr>
+    <tr>
+        <td>Perry Warjiyo</td>
+        <td>5 Mei 2023</td>
+        <td>24 Mei 2023</td>
+    </tr>
+    <tr>
+        <td>Destry Damayanti</td>
+        <td>29 Juli 2019</td>
+        <td>7 Agustus 2019</td>
+    </tr>
+    <tr>
+        <td>Doni Primanto Joewono</td>
+        <td>30 Juli 2020</td>
+        <td>11 Agustus 2020</td>
+    </tr>
+    <tr>
+        <td>Juda Agung</td>
+        <td>24 Desember 2021</td>
+        <td>6 Januari 2022</td>
+    </tr>
+    <tr>
+        <td>Aida S. Budiman</td>
+        <td>24 Desember 2021</td>
+        <td>6 Januari 2022</td>
+    </tr>
+    <tr>
+        <td>Filianingsih Hendarta</td>
+        <td>15 Maret 2023</td>
+        <td>18 April 2023</td>
+    </tr>
+</table>
+<br>
+<br>
+<h2>Layanan Museum Bank Indonesia</h2>
+<br>
+<br>
+<p class="outset">Permohonan Informasi</p>
+<p class="outset">Pengaduan Konsumen</p>
+<p class="outset">E-licensing</p>
+<p class="outset">Informasi Perizinan</p>
+<p class="outset">Perpustakaan</p>
+<p class="outset">Layanan Kas Bank Indonesia</p>
+<p class="outset">Pengadaan Barang dan Jasa</p>
+<p class="outset">Kunjungan Ke BI</p>
+<p class="outset">Museum BI</p>
+<p class="outset">Standar Sistem Pembayaran</p>
+<br>
+<br>
+<h2>CONTACT US</h2>
+<br>
+
+    <p><b>Jalan M.H. Thamrin No. 2, Jakarta 10350</p></b>
+    <p><i class="fa-solid fa-map-location-dot"></i> MUSEM BANK INDONESIA </p>
+    <p><i class="fa-solid fa-phone"></i> 131 dan 1500131</p>
+    <p><i class="fa-regular fa-envelope"></i> bicara@bi.go.id</p>
+    <a href="https://www.bi.go.id/id/default.aspx">Website Museum Bank Indonesia</a>
+
+
+</body>
+</html>
